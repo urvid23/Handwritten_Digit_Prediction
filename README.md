@@ -1,4 +1,4 @@
-# 🧠 Handwritten Digit Recognition
+# Handwritten Digit Recognition
 
 This project implements a deep learning model to recognize handwritten digits using the famous [MNIST dataset](http://yann.lecun.com/exdb/mnist/). The model is a fully connected neural network (also known as a multilayer perceptron or MLP), built with **TensorFlow** and **Keras**, achieving high accuracy in classifying digits from **0 to 9**.
 
